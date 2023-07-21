@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ITS Informov</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">Uib09Q0wa2hzCSlXRrCnVsJ10MM7mE2IdE7c-</string>
+</resources>
